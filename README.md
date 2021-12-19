@@ -1,5 +1,5 @@
 # Space-Fighter<br>
-## author: Tyler<br>
+## Author: Tyler<br>
 ### 這是我利用pygame進行的遊戲開發學習<br>
 ```
 玩家可透過鍵盤a和d對遊戲中機體進行左右移動，
@@ -11,9 +11,9 @@ BOSS在血量為50%及25%時會提升能力，增加攻擊速度。
 持續挑戰存活可以獲得分數!
 ```
 #### 執行後的遊戲介面:<br>
-![img](C:\Users\Liu Ty\Desktop\MyGitHub\Space_fighter\github_img\Example2.jpg "MenuView")
+![1](C:/Users/Liu Ty/Desktop/MyGitHub/Space_fighter/github_img/Example2.jpg)
 #### 遊戲中的畫面:<br>
-![img](C:\Users\Liu Ty\Desktop\MyGitHub\Space_fighter\github_img\Example.jpg "GameView")
+![2](C:/Users/Liu Ty/Desktop\MyGitHub/Space_fighter/github_img/Example.jpg)
 #### 參考影片:<br>
 Youtube pygame教學影片<https://www.youtube.com/watch?v=61eX0bFAsYs>
 
