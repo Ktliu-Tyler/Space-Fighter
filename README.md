@@ -11,9 +11,9 @@ BOSS在血量為50%及25%時會提升能力，增加攻擊速度。
 持續挑戰存活可以獲得分數!
 ```
 #### 執行後的遊戲介面:<br>
-![1](/github_img/Example2.jpg)
+<img src="/github_img/Example2.jpg" style="zoom:50%" />
 #### 遊戲中的畫面:<br>
-![2](/github_img/Example.jpg)
+<img src="/github_img/Example.jpg" style="zoom:50%" />
 #### 參考影片:<br>
 Youtube pygame教學影片<https://www.youtube.com/watch?v=61eX0bFAsYs>
 
