@@ -410,7 +410,7 @@ class Boss(pygame.sprite.Sprite):
         elif self.health / self.health_ori * 200 < 50 and self.health / self.health_ori * 200 > 0:
             self.image = boss_img2
             self.shoot_rate = 100
-        self.image.set_colorkey(BLACK)
+            
 score = 0
 all_sprites = pygame.sprite.Group()
 player = Player()
