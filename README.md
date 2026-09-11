@@ -1,3 +1,42 @@
+# Space Fighter
+
+A personal game-development project built with Python and Pygame. The player controls a spacecraft, shoots incoming threats, collects power-ups, and faces boss encounters in a two-dimensional arcade setting.
+
+**Original author:** Tyler.
+
+## Game systems
+
+- A player spacecraft with movement, shooting, health, and lives.
+- Moving obstacles and enemies represented through Pygame sprites.
+- Collision handling between the player, projectiles, and other objects.
+- Shield and weapon power-ups.
+- Boss behavior and projectiles.
+- Explosion animations, sound effects, and background music.
+- Highest-score and previous-score records saved to a text file.
+
+## How it is implemented
+
+Most of the game is collected in a single Python script. Sprite classes describe the player, projectiles, obstacles, explosions, power-ups, and boss, while sprite groups support updates and collision checks. The game loop coordinates events, state changes, drawing, and timing.
+
+| Path | Purpose |
+| --- | --- |
+| [main.py](main.py) | Main loop and game object implementations |
+| [img](img) | Sprites and visual effects |
+| [sound](sound) | Background music and sound effects |
+| [github_img](github_img) | Project screenshots |
+| [score.txt](score.txt) | Stored score record |
+
+## Personal record
+
+This repository preserves an early attempt to bring multiple game systems together into a playable project. It records work on object-oriented design, event handling, animation, collision detection, audio feedback, and persistent state. Historical packaged executables are included alongside the source; the source and original report explain the implementation. Existing media attribution and the original development notes are preserved below.
+
+## Original project notes
+
+The original documentation is retained below as a personal development record, including its original language, credits, illustrations, and historical instructions. Dates, paths, and environment details describe the original work.
+
+<details>
+<summary>Read the original documentation</summary>
+
 # Space Fighter<br>
 ## Author: Tyler<br>
 ### 利用pygame進行的遊戲開發學習<br>
@@ -302,3 +341,5 @@
     ```
 #### 參考影片:<br>
 Youtube pygame教學影片<https://www.youtube.com/watch?v=61eX0bFAsYs>
+
+</details>
